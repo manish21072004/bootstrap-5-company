@@ -294,7 +294,9 @@ text-decoration: none;
 
 /* media quarri */
 @media (max-width: 1200px){
-
+.col-xl-3.col-lg-4.col-md-4.col-sm-12.col-12client-logo{
+    border: 1px solid black;
+}
 }
 @media (max-width: 992px){
 .card-image-1 h2 {
@@ -403,7 +405,6 @@ a.nav-link.active {
 }
 .img-icon i {
     font-size: 14px;
-}
 }
 i.bi.bi-link-45deg.link-me {
     font-size: 18px;
