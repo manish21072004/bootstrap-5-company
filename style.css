@@ -391,5 +391,22 @@ a.nav-link.active {
 .end {
     padding: 16px;
 }
+.image-content {
+    padding: 2px;
+}
+.image-contain h3 {
+    font-size: 14px;
+}
+.image-contain p {
+    
+    font-size: 11px;
+}
+.img-icon i {
+    font-size: 14px;
+}
+}
+i.bi.bi-link-45deg.link-me {
+    font-size: 18px;
+}
 } 
 
