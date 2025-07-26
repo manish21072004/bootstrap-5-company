@@ -292,6 +292,50 @@ text-decoration: none;
     font-size: 15px;
 }
 
+/* media quarri */
 @media (max-width: 1200px){
+
+}
+@media (max-width: 992px){
+.card-image-1 h2 {
+    font-size: 24px;
+}
+.card-image-1 i {
+    font-size: 43px;
+}
+.card-1 {
+    padding: 38px;
+}
+.card-image-1 p {
+    font-size: 14px;
+}
+.sec-2-main h2 {
+    font-size: 47px;
+    margin-bottom: 50px;
+}
+.story ul {
+ padding-left: 0rem; 
+}
+.footer-heading-2 ul {
+    font-size: 15px;
+}
+}
+
+@media (max-width: 768px){
+.carousel-caption {
+    padding: 15px;
+}
+.carousel-caption h2 {
+    font-size: 33px;
+    margin-bottom: 10px;
+}
+    .card-1 {
+        padding: 22px;
+    }
+    .footer-heading-3 {
+    margin-top: 20px;
+}
+}
+@media (max-width: 576px){
 
 }
